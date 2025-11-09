@@ -1,5 +1,6 @@
-import 'package:flutter_post_build/flutter_post_build.dart' as flutter_post_build;
+import 'package:flutter_post_build/flutter_post_build.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${flutter_post_build.calculate()}!');
+void main(List<String> args) {
+  // This calls the main function from your library file.
+  runPostBuild();
 }
