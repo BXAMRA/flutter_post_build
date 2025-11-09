@@ -1,9 +1,9 @@
 name: flutter_post_build
 description: A command-line tool to rename and organize Flutter build artifacts after the build process is complete.
-version: 1.1.0
+version: 1.1.1
 homepage: https://bxamra.github.io/
 repository: https://github.com/BXAMRA/flutter_post_build
-issue_tracker: https://github.com/bxamra/flutter_devstat/issues
+issue_tracker: https://github.com/bxamra/flutter_post_build/issues
 license: MIT
 
 environment:

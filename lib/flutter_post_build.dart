@@ -4,7 +4,7 @@ import 'package:path/path.dart' as p;
 
 // ============================================================
 // Flutter Post-Build Organizer
-// v1.1.0 (Global Edition) - November 09, 2025
+// v1.1.1 (Global Edition) - November 09, 2025
 // Copyright 2025 BXAMRA
 // Website: https://bxamra.github.io/
 // ============================================================
